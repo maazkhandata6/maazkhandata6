@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Maaz Khan 👋
 
-<!--
-**maazkhandata6/MaazKhandata6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a Computer Science student building my skills in Data Analytics and
+working toward becoming a professional Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python
+- NumPy
+- SQL
+- Microsoft Excel
+- Power BI
+
+### 📚 Currently Learning
+
+- Pandas
+- SQL
+- Microsoft Excel
+- Power BI
+
+### 🚀 My Journey
+
+I'm documenting my learning journey through practical exercises,
+projects, and data analysis work.
+
+### 📂 Projects
+
+- [Python Learning](https://github.com/maazkhandata6/Python_Learning)
+- More data analysis projects coming soon.
+
+### 📫 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/maaz-khan-02b5b73b2)
