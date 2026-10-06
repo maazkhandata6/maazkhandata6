@@ -32,4 +32,6 @@ projects, and data analysis work.
 
 ### 📫 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/maaz-khan-02b5b73b2)
+- [LinkedIn]www.linkedin.com/in/maaz-khan-02b5b73b2
+
+)
