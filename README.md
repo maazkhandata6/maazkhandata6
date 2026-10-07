@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./maaz-khan-banner.gif" width="100%">
+</p>
+
+
+
 # Hi, I'm Maaz Khan 👋
 
 ### Computer Science Student | Aspiring Data Analyst
