@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./maaz-khan-banner.gif" width="100%">
+  <img src="./maaz-khan-banner-proper-2.gif" width="100%">
 </p>
-
-
 
 # Hi, I'm Maaz Khan 👋
 
